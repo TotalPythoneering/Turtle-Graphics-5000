@@ -14,3 +14,5 @@ If you can possibly afford to support the effort then you can gift me a 'cuppa o
 Happy Pythoneering,
 
 --- Randall Nagy
+
+p.s. We're creating a [related emulator](https://github.com/TotalPythoneering/Turtle9000) that you might enjoy?
