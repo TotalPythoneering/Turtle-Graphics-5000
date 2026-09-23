@@ -1,4 +1,4 @@
-# Turtle-Graphics-5000
+# Turtle Graphics - Level 5000
 Sharing the complete set of examples and source code for "Python 5000 - Turtle Graphics."
 
 Python's unique "batteries included" philosophy includes support for creating some extremely interesting graphics.
