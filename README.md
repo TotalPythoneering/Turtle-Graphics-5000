@@ -13,7 +13,7 @@ Designed for Pythoneers "**Python Modeling and Simulation**" is an educational o
 
  ☑️#4000: [Python Events, Frameworks and Shapes](https://www.manning.com/livevideo/python-events-frameworks-and-shapes)
 
- ⏹️#5000:[Python Modeling and Simulation](https://www.manning.com/livevideo/python-modeling-and-simulation)
+ ⏹️#5000: [Python Modeling and Simulation](https://www.manning.com/livevideo/python-modeling-and-simulation)
 
 # The Community
 If you can possibly afford to support the effort then you can gift me a 'cuppa on [ko-fi.com](https://ko-fi.com/randallnagy) and / or join the [Total Pythoneering Nexus](https://rumble.com/account/channel/content?channelId=7945018).
